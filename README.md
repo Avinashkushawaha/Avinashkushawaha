@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avinash kushawaha</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=bold&pause=1000&color=2F2BF7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Avinash+kushawaha" alt="Typing SVG" /></a></h1>
 
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Backend
