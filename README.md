@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Python 
 - 📫 How to reach me: mauryaavinash085@gmail.com
-- 😄 My website:https://mauryaavinashcom.godaddysites.com/ 
+- 😄 My website:https:https://genuine-valkyrie-a93292.netlify.app/ 
 - ⚡ Fun fact: I'm comming to teen
   <br>
 <img src="https://media0.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/200w.webp?cid=ecf05e47ib9ns3h8pu2an0x2t5tr7hfcpmh929cem58bya2k&ep=v1_gifs_related&rid=200w.webp&ct=g" atl="coding" width="400" align="right" >
